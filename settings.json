@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OGBOY1030.aternos.me:",
+    "ip": "OGBOY1030.aternos.me",
     "port": 20203,
     "version": "",
     "try-creative": false
